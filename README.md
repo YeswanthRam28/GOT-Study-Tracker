@@ -18,3 +18,11 @@ View your app in AI Studio: https://ai.studio/apps/drive/1dko3JXZS9Hx6a0lFOFXMOj
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## 🤖 AI Assistant
+
+Want to know what the AI coding assistant can do for this project? Check out [AI_CAPABILITIES.md](./AI_CAPABILITIES.md) for a comprehensive guide on:
+- What features can be added
+- How to request changes
+- What tasks the AI can help with
+- Example requests specific to the GOT Study Tracker
